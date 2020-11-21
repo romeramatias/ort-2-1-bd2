@@ -1,1 +1,3 @@
-# ort-2-1-bd2
+# ORT-2-1-BD2
+
+Base de datos 2, Triggers y Stored Procedures en MS SQL Server
